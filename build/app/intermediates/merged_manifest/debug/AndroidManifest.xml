@@ -13,10 +13,29 @@
          to allow setting breakpoints, to provide hot reload, etc.
     -->
     <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-    <uses-permission android:name="com.google.android.gms.permission.AD_ID" /> <!-- Android package visibility setting -->
-    <queries>
 
+    <queries>
+        <package android:name="com.google.android.apps.maps" />
+        <package android:name="com.google.android.apps.mapslite" />
+        <package android:name="com.autonavi.minimap" />
+        <package android:name="com.baidu.BaiduMap" />
+        <package android:name="com.waze" />
+        <package android:name="ru.yandex.yandexnavi" />
+        <package android:name="ru.yandex.yandexmaps" />
+        <package android:name="com.citymapper.app.release" />
+        <package android:name="com.mapswithme.maps.pro" />
+        <package android:name="net.osmand" />
+        <package android:name="net.osmand.plus" />
+        <package android:name="ru.dublgis.dgismobile" />
+        <package android:name="com.tencent.map" />
+        <package android:name="com.here.app.maps" />
+        <package android:name="com.huawei.maps.app" />
+        <package android:name="com.alk.copilot.mapviewer" />
+        <package android:name="com.tomtom.gplay.navapp" />
+        <package android:name="com.tomtom.gplay.navapp.gofleet" />
+        <package android:name="com.sygic.truck" />
+        <package android:name="nl.flitsmeister" />
+        <package android:name="nl.flitsmeister.flux" />
         <!-- For browser content -->
         <intent>
             <action android:name="android.intent.action.VIEW" />
@@ -24,15 +43,15 @@
             <category android:name="android.intent.category.BROWSABLE" />
 
             <data android:scheme="https" />
-        </intent>
-        <!-- End of browser content -->
+        </intent> <!-- End of browser content -->
         <!-- For CustomTabsService -->
         <intent>
             <action android:name="android.support.customtabs.action.CustomTabsService" />
         </intent>
-        <!-- End of CustomTabsService -->
     </queries>
 
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
 
@@ -122,13 +141,7 @@
             android:required="false" />
         <uses-library
             android:name="androidx.window.sidecar"
-            android:required="false" />
-
-        <provider
-            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-            android:authorities="com.InitialIng_Yazilim.nobetci_eczaneler.lifecycle-process"
-            android:exported="false"
-            android:multiprocess="true" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+            android:required="false" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
@@ -150,6 +163,13 @@
             android:name="com.google.android.gms.ads.OutOfContextTestingActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
             android:exported="false" />
+
+        <provider
+            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="com.InitialIng_Yazilim.nobetci_eczaneler.lifecycle-process"
+            android:exported="false"
+            android:multiprocess="true" />
+
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"

@@ -9,12 +9,12 @@ MERGED from [:url_launcher_android] C:\kodlar ve egitimler\flutter_projeler\nobe
 MERGED from [:url_launcher_android] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-14:19
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kerim\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kerim\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\60fc4e2fc83eac6170ec6dad4e51c009\transformed\jetified-play-services-ads-lite-22.0.0\AndroidManifest.xml:50:5-78:19
+MERGED from [com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\60fc4e2fc83eac6170ec6dad4e51c009\transformed\jetified-play-services-ads-lite-22.0.0\AndroidManifest.xml:50:5-78:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\kerim\.gradle\caches\transforms-3\52a1ec36c1d9baca4318824a39edf8c3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\kerim\.gradle\caches\transforms-3\52a1ec36c1d9baca4318824a39edf8c3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kerim\.gradle\caches\transforms-3\4aa14745d7b923c316185ec101beac47\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kerim\.gradle\caches\transforms-3\4aa14745d7b923c316185ec101beac47\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
-MERGED from [com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\60fc4e2fc83eac6170ec6dad4e51c009\transformed\jetified-play-services-ads-lite-22.0.0\AndroidManifest.xml:50:5-78:19
-MERGED from [com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\60fc4e2fc83eac6170ec6dad4e51c009\transformed\jetified-play-services-ads-lite-22.0.0\AndroidManifest.xml:50:5-78:19
 MERGED from [com.google.android.gms:play-services-ads-base:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\6a88fcbd9dba7e824dbff169fb471346\transformed\jetified-play-services-ads-base-22.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-ads-base:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\6a88fcbd9dba7e824dbff169fb471346\transformed\jetified-play-services-ads-base-22.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\kerim\.gradle\caches\transforms-3\af8c4ea1e88a6464b252575a7f234765\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
@@ -31,8 +31,8 @@ MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\keri
 MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\kerim\.gradle\caches\transforms-3\5ff4a353de7064fc161fb566343d6916\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
 MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\kerim\.gradle\caches\transforms-3\b4a7db67406f27068a5fb9131b798b08\transformed\work-runtime-2.7.0\AndroidManifest.xml:30:5-143:19
 MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\kerim\.gradle\caches\transforms-3\b4a7db67406f27068a5fb9131b798b08\transformed\work-runtime-2.7.0\AndroidManifest.xml:30:5-143:19
-MERGED from [androidx.core:core:1.9.0] C:\Users\kerim\.gradle\caches\transforms-3\5f80b20db3afa86c72a9766b008d752d\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.9.0] C:\Users\kerim\.gradle\caches\transforms-3\5f80b20db3afa86c72a9766b008d752d\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] C:\Users\kerim\.gradle\caches\transforms-3\9c9ab1a476c120097a79d748cec7161f\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] C:\Users\kerim\.gradle\caches\transforms-3\9c9ab1a476c120097a79d748cec7161f\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
 MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\c72b3acc999ec5e845f08a72394155ab\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\c72b3acc999ec5e845f08a72394155ab\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kerim\.gradle\caches\transforms-3\5abdc06e026f2f7b9b89c25dcd7a6d7e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
@@ -40,7 +40,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ke
 MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\kerim\.gradle\caches\transforms-3\824ecf9ce9de0af86259c87a99bba9f9\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
 MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\kerim\.gradle\caches\transforms-3\824ecf9ce9de0af86259c87a99bba9f9\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.9.0] C:\Users\kerim\.gradle\caches\transforms-3\5f80b20db3afa86c72a9766b008d752d\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.10.1] C:\Users\kerim\.gradle\caches\transforms-3\9c9ab1a476c120097a79d748cec7161f\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
 	android:name
 		INJECTED from C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\android\app\src\main\AndroidManifest.xml
 manifest
@@ -50,6 +50,7 @@ INJECTED from C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\android\
 INJECTED from C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\android\app\src\main\AndroidManifest.xml:1:1-38:12
 MERGED from C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\android\app\src\main\AndroidManifest.xml:1:1-38:12
 MERGED from [:shared_preferences_android] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-33:12
 MERGED from [:google_mobile_ads] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\google_mobile_ads\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
 MERGED from [:share_plus] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-37:12
 MERGED from [:package_info_plus] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\package_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
@@ -60,12 +61,13 @@ MERGED from [:webview_flutter_android] C:\kodlar ve egitimler\flutter_projeler\n
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\kerim\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kerim\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
 MERGED from [com.google.android.gms:play-services-ads:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\cde77b7cb9850344244ffe7622f72328\transformed\jetified-play-services-ads-22.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\60fc4e2fc83eac6170ec6dad4e51c009\transformed\jetified-play-services-ads-lite-22.0.0\AndroidManifest.xml:17:1-80:12
+MERGED from [com.google.android.ump:user-messaging-platform:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\bf9384b10980486b0c5bcbb62d39a41c\transformed\jetified-user-messaging-platform-2.1.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\kerim\.gradle\caches\transforms-3\52a1ec36c1d9baca4318824a39edf8c3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kerim\.gradle\caches\transforms-3\4aa14745d7b923c316185ec101beac47\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
-MERGED from [androidx.webkit:webkit:1.6.1] C:\Users\kerim\.gradle\caches\transforms-3\fd544416a4598cded3870fdc3c94247d\transformed\webkit-1.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\60fc4e2fc83eac6170ec6dad4e51c009\transformed\jetified-play-services-ads-lite-22.0.0\AndroidManifest.xml:17:1-80:12
+MERGED from [androidx.browser:browser:1.5.0] C:\Users\kerim\.gradle\caches\transforms-3\771fe64efcfbbf39a8b9ff2c8e0c6eec\transformed\browser-1.5.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.webkit:webkit:1.7.0] C:\Users\kerim\.gradle\caches\transforms-3\f72edb9be7830f1a26398a6f91d75b58\transformed\webkit-1.7.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-ads-base:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\6a88fcbd9dba7e824dbff169fb471346\transformed\jetified-play-services-ads-base-22.0.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.ump:user-messaging-platform:2.0.0] C:\Users\kerim\.gradle\caches\transforms-3\72dfff584337ca0633e19997c71775b6\transformed\jetified-user-messaging-platform-2.0.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\kerim\.gradle\caches\transforms-3\af8c4ea1e88a6464b252575a7f234765\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
 MERGED from [com.google.android.gms:play-services-appset:16.0.1] C:\Users\kerim\.gradle\caches\transforms-3\eae2bd4078f35c1edc13dbecd0dd9b19\transformed\jetified-play-services-appset-16.0.1\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\kerim\.gradle\caches\transforms-3\67bbbc33cd822465dd7fb3cf0a4c1c1f\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:16:1-24:12
@@ -75,7 +77,7 @@ MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] C:\Us
 MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\kerim\.gradle\caches\transforms-3\5ff4a353de7064fc161fb566343d6916\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\kerim\.gradle\caches\transforms-3\e937b68345cad7d61818d312b6b4c7ca\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kerim\.gradle\caches\transforms-3\9354257804af8250f2ffb7c22e2892d5\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.browser:browser:1.4.0] C:\Users\kerim\.gradle\caches\transforms-3\392643a040d0a7ef9b2ed4537c4719d5\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\kerim\.gradle\caches\transforms-3\f7cdfb73eaf400e8b2c346bb8e6d73ec\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\f156363817d5f71529d60b6716392550\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\cf24d35e50a727536c7357721dc007c5\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\252fc848d5aa6e267df5e6907a023aed\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
@@ -85,23 +87,22 @@ MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kerim\.gradle\ca
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\f4c2d181f9683c57f8970b9ce7785060\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kerim\.gradle\caches\transforms-3\f562cbc756445f17cad7fd8f06b07dbc\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kerim\.gradle\caches\transforms-3\3943378554826a83b044df13cc6da74b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.9.0] C:\Users\kerim\.gradle\caches\transforms-3\5f80b20db3afa86c72a9766b008d752d\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\kerim\.gradle\caches\transforms-3\3e6c979ab8eca9aa1eeca6cb7cd9f261\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.10.1] C:\Users\kerim\.gradle\caches\transforms-3\9c9ab1a476c120097a79d748cec7161f\transformed\core-1.10.1\AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\c72b3acc999ec5e845f08a72394155ab\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\5b75d2e6479f13c5aed7d8001da507c0\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kerim\.gradle\caches\transforms-3\5abdc06e026f2f7b9b89c25dcd7a6d7e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\0ba9c48dd5ff84ca64a6f8c4dc29ae01\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\a5e62b79c1b370c2c963eefe3a076316\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\76de6f24f8b7c959f2ec76043568cc76\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\kerim\.gradle\caches\transforms-3\76da31ad033c53187dd7271282d0f7d2\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\282676124ae0776b5645a1cee909808d\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\0ba9c48dd5ff84ca64a6f8c4dc29ae01\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kerim\.gradle\caches\transforms-3\5abdc06e026f2f7b9b89c25dcd7a6d7e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\a5e62b79c1b370c2c963eefe3a076316\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\95578c0d327ed1d1ac84d08493ede1cf\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\kerim\.gradle\caches\transforms-3\824ecf9ce9de0af86259c87a99bba9f9\transformed\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
-MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\75067830aaa304ee29a02b75703c1cf6\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\473f07ee4ed75d191f5fc2a12ce2becb\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\dd07569fc0efa3747a4ab7ad3d085309\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\67548c74baebb4a39866702e28485ef7\transformed\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\kerim\.gradle\caches\transforms-3\824ecf9ce9de0af86259c87a99bba9f9\transformed\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\56ea02d67edbb15aea212f39ccb5db78\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\282676124ae0776b5645a1cee909808d\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\75067830aaa304ee29a02b75703c1cf6\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\473f07ee4ed75d191f5fc2a12ce2becb\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\kerim\.gradle\caches\transforms-3\ec10578641139d45a328c567f48881a1\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
 INJECTED from C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\android\app\src\debug\AndroidManifest.xml:1:1-8:12
 INJECTED from C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\android\app\src\debug\AndroidManifest.xml:1:1-8:12
@@ -126,6 +127,8 @@ INJECTED from C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\android\
 INJECTED from C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\android\app\src\main\AndroidManifest.xml
 MERGED from [:shared_preferences_android] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:shared_preferences_android] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:google_mobile_ads] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\google_mobile_ads\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:google_mobile_ads] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\google_mobile_ads\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:share_plus] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
@@ -146,18 +149,20 @@ MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kerim\.gradle\caches\
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kerim\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.gms:play-services-ads:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\cde77b7cb9850344244ffe7622f72328\transformed\jetified-play-services-ads-22.0.0\AndroidManifest.xml:21:5-23:52
 MERGED from [com.google.android.gms:play-services-ads:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\cde77b7cb9850344244ffe7622f72328\transformed\jetified-play-services-ads-22.0.0\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\60fc4e2fc83eac6170ec6dad4e51c009\transformed\jetified-play-services-ads-lite-22.0.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\60fc4e2fc83eac6170ec6dad4e51c009\transformed\jetified-play-services-ads-lite-22.0.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\bf9384b10980486b0c5bcbb62d39a41c\transformed\jetified-user-messaging-platform-2.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\bf9384b10980486b0c5bcbb62d39a41c\transformed\jetified-user-messaging-platform-2.1.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\kerim\.gradle\caches\transforms-3\52a1ec36c1d9baca4318824a39edf8c3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\kerim\.gradle\caches\transforms-3\52a1ec36c1d9baca4318824a39edf8c3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kerim\.gradle\caches\transforms-3\4aa14745d7b923c316185ec101beac47\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kerim\.gradle\caches\transforms-3\4aa14745d7b923c316185ec101beac47\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.webkit:webkit:1.6.1] C:\Users\kerim\.gradle\caches\transforms-3\fd544416a4598cded3870fdc3c94247d\transformed\webkit-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.webkit:webkit:1.6.1] C:\Users\kerim\.gradle\caches\transforms-3\fd544416a4598cded3870fdc3c94247d\transformed\webkit-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\60fc4e2fc83eac6170ec6dad4e51c009\transformed\jetified-play-services-ads-lite-22.0.0\AndroidManifest.xml:21:5-44
-MERGED from [com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\60fc4e2fc83eac6170ec6dad4e51c009\transformed\jetified-play-services-ads-lite-22.0.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.browser:browser:1.5.0] C:\Users\kerim\.gradle\caches\transforms-3\771fe64efcfbbf39a8b9ff2c8e0c6eec\transformed\browser-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.5.0] C:\Users\kerim\.gradle\caches\transforms-3\771fe64efcfbbf39a8b9ff2c8e0c6eec\transformed\browser-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.7.0] C:\Users\kerim\.gradle\caches\transforms-3\f72edb9be7830f1a26398a6f91d75b58\transformed\webkit-1.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.7.0] C:\Users\kerim\.gradle\caches\transforms-3\f72edb9be7830f1a26398a6f91d75b58\transformed\webkit-1.7.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-base:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\6a88fcbd9dba7e824dbff169fb471346\transformed\jetified-play-services-ads-base-22.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-ads-base:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\6a88fcbd9dba7e824dbff169fb471346\transformed\jetified-play-services-ads-base-22.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.ump:user-messaging-platform:2.0.0] C:\Users\kerim\.gradle\caches\transforms-3\72dfff584337ca0633e19997c71775b6\transformed\jetified-user-messaging-platform-2.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.ump:user-messaging-platform:2.0.0] C:\Users\kerim\.gradle\caches\transforms-3\72dfff584337ca0633e19997c71775b6\transformed\jetified-user-messaging-platform-2.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\kerim\.gradle\caches\transforms-3\af8c4ea1e88a6464b252575a7f234765\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\kerim\.gradle\caches\transforms-3\af8c4ea1e88a6464b252575a7f234765\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-appset:16.0.1] C:\Users\kerim\.gradle\caches\transforms-3\eae2bd4078f35c1edc13dbecd0dd9b19\transformed\jetified-play-services-appset-16.0.1\AndroidManifest.xml:5:5-44
@@ -176,8 +181,8 @@ MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\kerim\.gradle\caches\t
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\kerim\.gradle\caches\transforms-3\e937b68345cad7d61818d312b6b4c7ca\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kerim\.gradle\caches\transforms-3\9354257804af8250f2ffb7c22e2892d5\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kerim\.gradle\caches\transforms-3\9354257804af8250f2ffb7c22e2892d5\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.browser:browser:1.4.0] C:\Users\kerim\.gradle\caches\transforms-3\392643a040d0a7ef9b2ed4537c4719d5\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.browser:browser:1.4.0] C:\Users\kerim\.gradle\caches\transforms-3\392643a040d0a7ef9b2ed4537c4719d5\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\kerim\.gradle\caches\transforms-3\f7cdfb73eaf400e8b2c346bb8e6d73ec\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\kerim\.gradle\caches\transforms-3\f7cdfb73eaf400e8b2c346bb8e6d73ec\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\f156363817d5f71529d60b6716392550\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\f156363817d5f71529d60b6716392550\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\cf24d35e50a727536c7357721dc007c5\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
@@ -196,40 +201,38 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ker
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kerim\.gradle\caches\transforms-3\f562cbc756445f17cad7fd8f06b07dbc\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kerim\.gradle\caches\transforms-3\3943378554826a83b044df13cc6da74b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kerim\.gradle\caches\transforms-3\3943378554826a83b044df13cc6da74b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.9.0] C:\Users\kerim\.gradle\caches\transforms-3\5f80b20db3afa86c72a9766b008d752d\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.9.0] C:\Users\kerim\.gradle\caches\transforms-3\5f80b20db3afa86c72a9766b008d752d\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\kerim\.gradle\caches\transforms-3\3e6c979ab8eca9aa1eeca6cb7cd9f261\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\kerim\.gradle\caches\transforms-3\3e6c979ab8eca9aa1eeca6cb7cd9f261\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\kerim\.gradle\caches\transforms-3\9c9ab1a476c120097a79d748cec7161f\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\kerim\.gradle\caches\transforms-3\9c9ab1a476c120097a79d748cec7161f\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\c72b3acc999ec5e845f08a72394155ab\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\c72b3acc999ec5e845f08a72394155ab\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\5b75d2e6479f13c5aed7d8001da507c0\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\5b75d2e6479f13c5aed7d8001da507c0\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kerim\.gradle\caches\transforms-3\5abdc06e026f2f7b9b89c25dcd7a6d7e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kerim\.gradle\caches\transforms-3\5abdc06e026f2f7b9b89c25dcd7a6d7e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\0ba9c48dd5ff84ca64a6f8c4dc29ae01\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\0ba9c48dd5ff84ca64a6f8c4dc29ae01\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\a5e62b79c1b370c2c963eefe3a076316\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\a5e62b79c1b370c2c963eefe3a076316\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\76de6f24f8b7c959f2ec76043568cc76\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\76de6f24f8b7c959f2ec76043568cc76\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\kerim\.gradle\caches\transforms-3\76da31ad033c53187dd7271282d0f7d2\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\kerim\.gradle\caches\transforms-3\76da31ad033c53187dd7271282d0f7d2\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\282676124ae0776b5645a1cee909808d\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\282676124ae0776b5645a1cee909808d\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\0ba9c48dd5ff84ca64a6f8c4dc29ae01\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\0ba9c48dd5ff84ca64a6f8c4dc29ae01\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kerim\.gradle\caches\transforms-3\5abdc06e026f2f7b9b89c25dcd7a6d7e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kerim\.gradle\caches\transforms-3\5abdc06e026f2f7b9b89c25dcd7a6d7e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\a5e62b79c1b370c2c963eefe3a076316\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\a5e62b79c1b370c2c963eefe3a076316\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\95578c0d327ed1d1ac84d08493ede1cf\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kerim\.gradle\caches\transforms-3\95578c0d327ed1d1ac84d08493ede1cf\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\kerim\.gradle\caches\transforms-3\824ecf9ce9de0af86259c87a99bba9f9\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\kerim\.gradle\caches\transforms-3\824ecf9ce9de0af86259c87a99bba9f9\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\75067830aaa304ee29a02b75703c1cf6\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\75067830aaa304ee29a02b75703c1cf6\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\473f07ee4ed75d191f5fc2a12ce2becb\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\473f07ee4ed75d191f5fc2a12ce2becb\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\dd07569fc0efa3747a4ab7ad3d085309\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\dd07569fc0efa3747a4ab7ad3d085309\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\67548c74baebb4a39866702e28485ef7\transformed\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\67548c74baebb4a39866702e28485ef7\transformed\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\kerim\.gradle\caches\transforms-3\824ecf9ce9de0af86259c87a99bba9f9\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\kerim\.gradle\caches\transforms-3\824ecf9ce9de0af86259c87a99bba9f9\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\56ea02d67edbb15aea212f39ccb5db78\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\56ea02d67edbb15aea212f39ccb5db78\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\282676124ae0776b5645a1cee909808d\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\282676124ae0776b5645a1cee909808d\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\75067830aaa304ee29a02b75703c1cf6\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\75067830aaa304ee29a02b75703c1cf6\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\473f07ee4ed75d191f5fc2a12ce2becb\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\kerim\.gradle\caches\transforms-3\473f07ee4ed75d191f5fc2a12ce2becb\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\kerim\.gradle\caches\transforms-3\ec10578641139d45a328c567f48881a1\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\kerim\.gradle\caches\transforms-3\ec10578641139d45a328c567f48881a1\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
 INJECTED from C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\android\app\src\debug\AndroidManifest.xml
@@ -252,6 +255,94 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\kerim\.gradle\caches\transforms-3\38c355b9cb31e00c502b4053668aa934\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\android\app\src\debug\AndroidManifest.xml:7:22-64
+queries
+ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-31:15
+MERGED from [com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\60fc4e2fc83eac6170ec6dad4e51c009\transformed\jetified-play-services-ads-lite-22.0.0\AndroidManifest.xml:32:5-48:15
+MERGED from [com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\60fc4e2fc83eac6170ec6dad4e51c009\transformed\jetified-play-services-ads-lite-22.0.0\AndroidManifest.xml:32:5-48:15
+package#com.google.android.apps.maps
+ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-64
+	android:name
+		ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-61
+package#com.google.android.apps.mapslite
+ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:11:9-68
+	android:name
+		ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:11:18-65
+package#com.autonavi.minimap
+ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-56
+	android:name
+		ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:12:18-53
+package#com.baidu.BaiduMap
+ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-54
+	android:name
+		ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:13:18-51
+package#com.waze
+ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:14:18-41
+package#ru.yandex.yandexnavi
+ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-56
+	android:name
+		ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:15:18-53
+package#ru.yandex.yandexmaps
+ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-56
+	android:name
+		ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:16:18-53
+package#com.citymapper.app.release
+ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-62
+	android:name
+		ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:17:18-59
+package#com.mapswithme.maps.pro
+ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-59
+	android:name
+		ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:18:18-56
+package#net.osmand
+ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-46
+	android:name
+		ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:19:18-43
+package#net.osmand.plus
+ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-51
+	android:name
+		ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:20:18-48
+package#ru.dublgis.dgismobile
+ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:21:9-57
+	android:name
+		ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:21:18-54
+package#com.tencent.map
+ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:22:9-51
+	android:name
+		ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:22:18-48
+package#com.here.app.maps
+ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-53
+	android:name
+		ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:23:18-50
+package#com.huawei.maps.app
+ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:24:9-55
+	android:name
+		ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:24:18-52
+package#com.alk.copilot.mapviewer
+ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-61
+	android:name
+		ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:25:18-58
+package#com.tomtom.gplay.navapp
+ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:26:9-59
+	android:name
+		ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:26:18-56
+package#com.tomtom.gplay.navapp.gofleet
+ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:27:9-67
+	android:name
+		ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:27:18-64
+package#com.sygic.truck
+ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-51
+	android:name
+		ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:28:18-48
+package#nl.flitsmeister
+ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:29:9-51
+	android:name
+		ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:29:18-48
+package#nl.flitsmeister.flux
+ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:30:9-56
+	android:name
+		ADDED from [:map_launcher] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\map_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:30:18-53
 meta-data#io.flutter.embedded_views_preview
 ADDED from [:google_mobile_ads] C:\kodlar ve egitimler\flutter_projeler\nobetci_eczaneler\build\google_mobile_ads\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-14:36
 	android:value
@@ -306,16 +397,6 @@ ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kerim\.gradle\caches\t
 		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kerim\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
 	android:name
 		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kerim\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
-provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kerim\.gradle\caches\transforms-3\4aa14745d7b923c316185ec101beac47\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
-	android:authorities
-		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kerim\.gradle\caches\transforms-3\4aa14745d7b923c316185ec101beac47\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
-	android:multiprocess
-		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kerim\.gradle\caches\transforms-3\4aa14745d7b923c316185ec101beac47\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
-	android:exported
-		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kerim\.gradle\caches\transforms-3\4aa14745d7b923c316185ec101beac47\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
-	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kerim\.gradle\caches\transforms-3\4aa14745d7b923c316185ec101beac47\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\60fc4e2fc83eac6170ec6dad4e51c009\transformed\jetified-play-services-ads-lite-22.0.0\AndroidManifest.xml:25:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\kerim\.gradle\caches\transforms-3\38c355b9cb31e00c502b4053668aa934\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:24:5-79
@@ -339,8 +420,6 @@ REJECTED from [androidx.work:work-runtime:2.7.0] C:\Users\kerim\.gradle\caches\t
 		ADDED from [com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\60fc4e2fc83eac6170ec6dad4e51c009\transformed\jetified-play-services-ads-lite-22.0.0\AndroidManifest.xml:29:9-28
 	android:name
 		ADDED from [com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\60fc4e2fc83eac6170ec6dad4e51c009\transformed\jetified-play-services-ads-lite-22.0.0\AndroidManifest.xml:28:9-65
-queries
-ADDED from [com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\60fc4e2fc83eac6170ec6dad4e51c009\transformed\jetified-play-services-ads-lite-22.0.0\AndroidManifest.xml:32:5-48:15
 intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
 ADDED from [com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\60fc4e2fc83eac6170ec6dad4e51c009\transformed\jetified-play-services-ads-lite-22.0.0\AndroidManifest.xml:35:9-41:18
 action#android.intent.action.VIEW
@@ -405,6 +484,16 @@ ADDED from [com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\kerim
 		ADDED from [com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\60fc4e2fc83eac6170ec6dad4e51c009\transformed\jetified-play-services-ads-lite-22.0.0\AndroidManifest.xml:75:13-122
 	android:name
 		ADDED from [com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\kerim\.gradle\caches\transforms-3\60fc4e2fc83eac6170ec6dad4e51c009\transformed\jetified-play-services-ads-lite-22.0.0\AndroidManifest.xml:74:13-82
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kerim\.gradle\caches\transforms-3\4aa14745d7b923c316185ec101beac47\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kerim\.gradle\caches\transforms-3\4aa14745d7b923c316185ec101beac47\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kerim\.gradle\caches\transforms-3\4aa14745d7b923c316185ec101beac47\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kerim\.gradle\caches\transforms-3\4aa14745d7b923c316185ec101beac47\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kerim\.gradle\caches\transforms-3\4aa14745d7b923c316185ec101beac47\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\kerim\.gradle\caches\transforms-3\67bbbc33cd822465dd7fb3cf0a4c1c1f\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:20:9-22:45
 	android:exported
@@ -646,25 +735,25 @@ ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kerim\.gradle\caches\tran
 	android:name
 		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kerim\.gradle\caches\transforms-3\b4a7db67406f27068a5fb9131b798b08\transformed\work-runtime-2.7.0\AndroidManifest.xml:140:25-85
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] C:\Users\kerim\.gradle\caches\transforms-3\5f80b20db3afa86c72a9766b008d752d\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.10.1] C:\Users\kerim\.gradle\caches\transforms-3\9c9ab1a476c120097a79d748cec7161f\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.9.0] C:\Users\kerim\.gradle\caches\transforms-3\5f80b20db3afa86c72a9766b008d752d\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.10.1] C:\Users\kerim\.gradle\caches\transforms-3\9c9ab1a476c120097a79d748cec7161f\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.9.0] C:\Users\kerim\.gradle\caches\transforms-3\5f80b20db3afa86c72a9766b008d752d\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.10.1] C:\Users\kerim\.gradle\caches\transforms-3\9c9ab1a476c120097a79d748cec7161f\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
 permission#com.InitialIng_Yazilim.nobetci_eczaneler.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] C:\Users\kerim\.gradle\caches\transforms-3\5f80b20db3afa86c72a9766b008d752d\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.10.1] C:\Users\kerim\.gradle\caches\transforms-3\9c9ab1a476c120097a79d748cec7161f\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.9.0] C:\Users\kerim\.gradle\caches\transforms-3\5f80b20db3afa86c72a9766b008d752d\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.10.1] C:\Users\kerim\.gradle\caches\transforms-3\9c9ab1a476c120097a79d748cec7161f\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.9.0] C:\Users\kerim\.gradle\caches\transforms-3\5f80b20db3afa86c72a9766b008d752d\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.10.1] C:\Users\kerim\.gradle\caches\transforms-3\9c9ab1a476c120097a79d748cec7161f\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
 uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] C:\Users\kerim\.gradle\caches\transforms-3\5f80b20db3afa86c72a9766b008d752d\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.10.1] C:\Users\kerim\.gradle\caches\transforms-3\9c9ab1a476c120097a79d748cec7161f\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.9.0] C:\Users\kerim\.gradle\caches\transforms-3\5f80b20db3afa86c72a9766b008d752d\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.10.1] C:\Users\kerim\.gradle\caches\transforms-3\9c9ab1a476c120097a79d748cec7161f\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
 uses-permission#com.InitialIng_Yazilim.nobetci_eczaneler.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] C:\Users\kerim\.gradle\caches\transforms-3\5f80b20db3afa86c72a9766b008d752d\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.10.1] C:\Users\kerim\.gradle\caches\transforms-3\9c9ab1a476c120097a79d748cec7161f\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.9.0] C:\Users\kerim\.gradle\caches\transforms-3\5f80b20db3afa86c72a9766b008d752d\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.10.1] C:\Users\kerim\.gradle\caches\transforms-3\9c9ab1a476c120097a79d748cec7161f\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
 service#androidx.room.MultiInstanceInvalidationService
 ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\kerim\.gradle\caches\transforms-3\824ecf9ce9de0af86259c87a99bba9f9\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
 	android:exported

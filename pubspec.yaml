@@ -41,6 +41,8 @@ dependencies:
   riverpod: ^2.3.6
   flutter_riverpod: ^2.3.6
   google_mobile_ads: ^3.0.0
+  map_launcher: ^3.0.1
+  url_launcher: ^6.2.1
 
 dev_dependencies:
   flutter_test:

@@ -2,25 +2,25 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:map_launcher/map_launcher.dart';
 import 'package:kartal/kartal.dart';
 import 'package:nobetci_eczaneler/product/constant/color_constant.dart';
 import 'package:nobetci_eczaneler/product/constant/string_constant.dart';
 import 'package:nobetci_eczaneler/view/page/pharmacy_page/pharmacy_page_provider.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 class PharmacyPage extends ConsumerStatefulWidget {
   final String? city;
   final String? destrictName;
   final String? destrictNameTitle;
-  const PharmacyPage(
-      {super.key, this.city, this.destrictName, this.destrictNameTitle});
+  const PharmacyPage({super.key, this.city, this.destrictName, this.destrictNameTitle});
 
   @override
   ConsumerState<ConsumerStatefulWidget> createState() => _PharmacyPageState();
 }
 
 class _PharmacyPageState extends ConsumerState<PharmacyPage> {
-  final _pharmacyProvider =
-      StateNotifierProvider<PharmacyPageNotifier, PharmacyPageState>((ref) {
+  final _pharmacyProvider = StateNotifierProvider<PharmacyPageNotifier, PharmacyPageState>((ref) {
     return PharmacyPageNotifier();
   });
 
@@ -28,8 +28,7 @@ class _PharmacyPageState extends ConsumerState<PharmacyPage> {
   void initState() {
     super.initState();
     Future.microtask(() {
-      ref.read(_pharmacyProvider.notifier).fetchPharmacyAndLoad(
-          widget.destrictName ?? 'istanbul', widget.city ?? 'beykoz');
+      ref.read(_pharmacyProvider.notifier).fetchPharmacyAndLoad(widget.destrictName ?? 'istanbul', widget.city ?? 'beykoz');
     });
   }
 
@@ -39,8 +38,7 @@ class _PharmacyPageState extends ConsumerState<PharmacyPage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: ColorConstant.listPageTrailingIcon,
-        title: Text(
-            '${widget.destrictNameTitle ?? 'N/A veriable'} için Eczaneler'),
+        title: Text('${widget.destrictNameTitle ?? 'N/A veriable'} için Eczaneler'),
       ),
       body: (ref.watch(_pharmacyProvider).isPharmacyLoading ?? true)
           ? const Center(
@@ -71,12 +69,12 @@ class _PharmacyPageState extends ConsumerState<PharmacyPage> {
                         overflow: TextOverflow.ellipsis,
                       ),
                       children: [
-                        _phermacyName(items: items),
-                        _pharmacyAdress(items: items),
-                        _pharmacySemt(semt: semt ?? ''),
-                        _pharamcyDirections(items: items),
-                        _pharmacyTelephone(items: items),
-                        _pharmacyCityAndDestrict(items: items),
+                        _PhermacyName(items: items),
+                        _PharmacyAdress(items: items),
+                        _PharmacySemt(semt: semt ?? ''),
+                        _PharamcyDirections(items: items),
+                        _PharmacyTelephone(items: items),
+                        _PharmacyCityAndDestrict(items: items),
                       ],
                     );
                   },
@@ -85,8 +83,8 @@ class _PharmacyPageState extends ConsumerState<PharmacyPage> {
   }
 }
 
-class _pharmacyCityAndDestrict extends StatelessWidget {
-  const _pharmacyCityAndDestrict({
+class _PharmacyCityAndDestrict extends StatelessWidget {
+  const _PharmacyCityAndDestrict({
     super.key,
     required this.items,
   });
@@ -96,8 +94,7 @@ class _pharmacyCityAndDestrict extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ListTile(
-      title: Text(StringConstant.pharmacyCityAndDestrict,
-          style: context.textTheme.titleLarge),
+      title: Text(StringConstant.pharmacyCityAndDestrict, style: context.textTheme.titleLarge),
       subtitle: Text(
         items['Sehir'] + ' / ' + items['ilce'],
         style: context.textTheme.titleMedium?.copyWith(color: Colors.black),
@@ -106,8 +103,8 @@ class _pharmacyCityAndDestrict extends StatelessWidget {
   }
 }
 
-class  _pharmacyTelephone extends StatelessWidget {
-  const _pharmacyTelephone({
+class _PharmacyTelephone extends StatelessWidget {
+  const _PharmacyTelephone({
     super.key,
     required this.items,
   });
@@ -117,18 +114,23 @@ class  _pharmacyTelephone extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ListTile(
-      title:
-          Text(StringConstant.pharmacytel, style: context.textTheme.titleLarge),
+      title: Text(StringConstant.pharmacytel, style: context.textTheme.titleLarge),
       subtitle: Text(
         items['Telefon'],
         style: context.textTheme.titleMedium?.copyWith(color: Colors.black),
+      ),
+      trailing: IconButton(
+        onPressed: () {
+          launch("tel://${items['Telefon']}");
+        },
+        icon: const Icon(Icons.call),
       ),
     );
   }
 }
 
-class _pharamcyDirections extends StatelessWidget {
-  const _pharamcyDirections({
+class _PharamcyDirections extends StatelessWidget {
+  const _PharamcyDirections({
     super.key,
     required this.items,
   });
@@ -138,8 +140,7 @@ class _pharamcyDirections extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ListTile(
-      title: Text(StringConstant.pharmacyDirections,
-          style: context.textTheme.titleLarge),
+      title: Text(StringConstant.pharmacyDirections, style: context.textTheme.titleLarge),
       subtitle: Text(
         items['YolTarifi'],
         style: context.textTheme.titleMedium?.copyWith(color: Colors.black),
@@ -148,10 +149,10 @@ class _pharamcyDirections extends StatelessWidget {
   }
 }
 
-class _pharmacySemt extends StatelessWidget {
+class _PharmacySemt extends StatelessWidget {
   final String semt;
 
-  const _pharmacySemt({
+  const _PharmacySemt({
     super.key,
     required this.semt,
   });
@@ -159,8 +160,7 @@ class _pharmacySemt extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ListTile(
-      title: Text(StringConstant.pharmacySemt,
-          style: context.textTheme.titleLarge),
+      title: Text(StringConstant.pharmacySemt, style: context.textTheme.titleLarge),
       subtitle: Text(
         // || semt != null
         (semt.isNotEmpty) ? ('Semt Verisi Alınamadı !') : (semt),
@@ -170,8 +170,8 @@ class _pharmacySemt extends StatelessWidget {
   }
 }
 
-class _phermacyName extends StatelessWidget {
-  const _phermacyName({
+class _PhermacyName extends StatelessWidget {
+  const _PhermacyName({
     super.key,
     required this.items,
   });
@@ -181,8 +181,7 @@ class _phermacyName extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ListTile(
-      title: Text(StringConstant.pharmacyName,
-          style: context.textTheme.titleLarge),
+      title: Text(StringConstant.pharmacyName, style: context.textTheme.titleLarge),
       subtitle: Text(
         items['EczaneAdi'],
         style: context.textTheme.titleMedium?.copyWith(color: Colors.black),
@@ -191,8 +190,8 @@ class _phermacyName extends StatelessWidget {
   }
 }
 
-class _pharmacyAdress extends StatelessWidget {
-  const _pharmacyAdress({
+class _PharmacyAdress extends StatelessWidget {
+  const _PharmacyAdress({
     super.key,
     required this.items,
   });
@@ -202,13 +201,29 @@ class _pharmacyAdress extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ListTile(
-      title: Text(StringConstant.pharmacyAdress,
-          style: context.textTheme.titleLarge),
+      title: Text(StringConstant.pharmacyAdress, style: context.textTheme.titleLarge),
       subtitle: Text(
         items['Adresi'],
         maxLines: 2,
         style: context.textTheme.titleMedium?.copyWith(color: Colors.black),
       ),
+      trailing: IconButton(
+          onPressed: () {
+            MapLauncher.showMarker(
+              mapType: MapType.google,
+              coords: Coords(
+                double.parse(
+                  items['latitude'].toString(),
+                ),
+                double.parse(
+                  items['longitude'].toString(),
+                ),
+              ),
+              title: items['EczaneAdi'],
+              description: items['Adresi'],
+            );
+          },
+          icon: const Icon(Icons.map_outlined)),
     );
   }
 }
